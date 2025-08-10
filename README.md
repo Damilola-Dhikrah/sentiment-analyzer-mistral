@@ -18,7 +18,7 @@ A simple AI app that uses the \*\*Mistral\*\* model via \*\*Ollama\*\* to classi
 
 1\) Clone:
 
-git clone https://github.com/YOURUSERNAME/sentiment-analyzer-mistral.git
+git clone https://github.com/Damilola-Dhikrah/sentiment-analyzer-mistral.git
 
 cd sentiment-analyzer-mistral
 
